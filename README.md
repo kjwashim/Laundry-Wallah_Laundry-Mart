@@ -98,13 +98,3 @@ This project helps beginners practice:
 ## 📬 Contact
 
 📧 Email: [info@laundrymart.com](mailto:info@laundrymart.com)
-
----
-
-## 📄 License
-
-This project is open-source and free to use.
-
----
-
-⭐ If you like this project, consider giving it a star!
